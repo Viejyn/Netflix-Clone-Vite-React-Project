@@ -25,4 +25,3 @@
 ### 🎥 `Screen`
 
 ![](netflix-clone.gif)
-# Netflix-Clone-Vite-React-Project
