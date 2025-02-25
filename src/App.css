@@ -1,0 +1,45 @@
+/* Splide kaydırma alanı */
+.movie-slider {
+    padding: 10px;
+}
+
+/* Her film kartı */
+.movie-slide {
+    position: relative;
+    background: #2c3034;
+    border-radius: 10px;
+    padding: 10px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    min-width: 200px; 
+    max-width: 220px;
+}
+
+.movie-slide:hover {
+    transform: scale(1.05); 
+}
+
+/* Film görselleri */
+.movie-slide img {
+    width: 100%;
+    border-radius: 8px;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.movie-slide img:hover {
+    opacity: 0.8;
+}
+
+/* Film başlıkları */
+.movie-title {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+/* IMDB Puanı */
+.movie-rating {
+    font-size: 0.9rem;
+    color: #f5c518; /* IMDB sarısı */
+    margin-top: 5px;
+}
