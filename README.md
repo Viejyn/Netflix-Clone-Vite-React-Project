@@ -11,7 +11,7 @@
 
 📱 Responsive Design: With a mobile compatible and stylish design, it can be used easily on any device.
 
-### 🧑‍💻 Technologies Used
+### 👩‍💻 Technologies Used
 
 <li>React-Redux</li>
 <li>Redux-Thunk</li>
@@ -21,6 +21,10 @@
 <li>@splidejs/react-splide</li>
 <li>Css</li>
 <li>Bootstrap</li>
+
+### 🌐 `Deploy`
+
+https://movie-search-watch-0325.netlify.app/
 
 ### 🎥 `Screen`
 
